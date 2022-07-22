@@ -1,0 +1,6 @@
+<?php
+ return array (
+  'title' => '$TITLE',
+  'default_user' => '$DEFAULTUSER',
+  'logo_html' => '<H1>$TITLE</H1>',
+);
