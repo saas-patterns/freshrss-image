@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: freshrss
-        image: quay.io/mhrivnak/freshrss:latest
+        image: quay.io/saas-patterns/freshrss:latest
         ports:
         - containerPort: 8080
